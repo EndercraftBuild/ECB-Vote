@@ -1,0 +1,15 @@
+#  VoteSend Config
+#  http://www.mc-index.com
+#
+
+servers:
+  server2:
+    IP: ''
+    Port: 8192
+    Key: VOTIFIERPUBLICKEY
+    Custom: ''
+  server3:
+    IP: ''
+    Port: 8192
+    Key: VOTIFIERPUBLICKEY
+    Custom: ''
